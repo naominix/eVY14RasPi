@@ -11,3 +11,5 @@ Install eVY1 Scratch.
 # curl https://naominix.github.io/pokemikuinstall.sh | sh
 ```
 
+Overwrite so.MIDIPlugin file.
+
