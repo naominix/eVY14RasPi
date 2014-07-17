@@ -16,6 +16,6 @@ Overwrite so.MIDIPlugin file.
 
 ## Special Thanks
 
-eVY1 Scratch : @abee2
+eVY1 Scratch : Kazuhiro Abe
 
 Patched so.MIDIPlugin : Manabu Sugiura
