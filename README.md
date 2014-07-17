@@ -19,7 +19,7 @@ Overwrite so.MIDIPlugin file.
 1. Boot Raspberry Pi
 2. After the LXDE Desktop displayed, Connect NSX-39(Pocket Miku).
 3. Double click eVY1 Scratch icon on desktop shortcut to start eVY1 Scratch
-4. Click Sound category, Select MIDI device.
+4. Click Sound category, Right Click "Play Note Block" and Select MIDI device.
 
 
 ## Special Thanks
