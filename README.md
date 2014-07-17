@@ -13,3 +13,8 @@ Install eVY1 Scratch.
 
 Overwrite so.MIDIPlugin file.
 
+
+## Special Thanks
+
+eVY1 Scratch : @abee2
+Patched so.MIDIPlugin : Manabu Sugiura
