@@ -7,9 +7,20 @@ eVY1 Scratch on Raspberry Pi for Pokemiku NSX-39 Installer
 
 Install eVY1 Scratch.
 
+### Network Online
+
 ```
 $ cd /home/pi
 $ curl https://naominix.github.io/pokemikuinstall.sh | sh
+```
+
+### Network Offline
+
+```
+$ cd /home/pi
+$ unzip master.zip
+$ cd eVY14RasPi-master
+$ cat localinstall.sh | sh
 ```
 
 Overwrite so.MIDIPlugin file.
