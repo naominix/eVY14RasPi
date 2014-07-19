@@ -16,6 +16,9 @@ $ curl https://naominix.github.io/pokemikuinstall.sh | sh
 
 ### Network Offline
 
+Download the Zip file from GitHub.
+https://github.com/naominix/eVY14RasPi/archive/master.zip
+
 ```
 $ cd /home/pi
 $ unzip master.zip
